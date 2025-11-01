@@ -3,6 +3,7 @@ import Demo from './components/Demo';
 import Features from './components/Features';
 import Header from './components/Header';
 import Hero from './components/Hero';
+import Pricing from './components/Pricing';
 import UseCases from './components/UseCases';
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
         <Demo />
         <Features />
         <UseCases />
+        <Pricing />
       </main>
     </div>
   );
